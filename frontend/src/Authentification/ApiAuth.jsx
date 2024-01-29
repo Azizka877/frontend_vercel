@@ -3,7 +3,7 @@
 
 import axios from 'axios';
 
-const API_Principal = 'https://hotel-manag1.onrender.com'; 
+const API_Principal = 'https://hotel-manag1.onrender.com/api'; 
 
 export const registerAdmi = async (userData) => {
   try {
